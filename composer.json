@@ -1,5 +1,5 @@
 {
-    "name": "cloudy/composer-test",
+    "name": "cloud/composer-test",
     "description": "composer-test",
     "license": "MIT",
     "require": {
@@ -7,7 +7,7 @@
     },
     "autoload": {
         "psr-4": {
-            "CloudY\\ComposerTest\\":"src/"
+            "OctoberMoon\\ComposerTest\\":"src/"
         }
     }
 }
