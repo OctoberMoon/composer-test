@@ -1,6 +1,6 @@
 <?php
 
-namespace Cloud\ComposerTest\Interfaces;
+namespace CloudY\ComposerTest\Interfaces;
 
 interface CalculatorServiceInterface
 {
