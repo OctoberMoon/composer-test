@@ -1,0 +1,13 @@
+{
+    "name": "cloud/composer-test",
+    "description": "composer-test",
+    "license": "MIT",
+    "require": {
+        "php":">=7.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Cloud\\ComposerTest\\":"src/"
+        }
+    }
+}
